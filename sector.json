@@ -1,0 +1,6 @@
+{
+    "casas":["casa1","casa2","casa3"],
+    "parqueDeEntretenimiento":true,
+    "areaVerde":true,
+    "estacionamientosDeVisitas":55
+}

@@ -1,0 +1,7 @@
+{
+    "sectores":["sector1","sector2","sector3"],
+    "areaComun":true,
+    "garitas":true,
+    "tiendas":true,
+    "estacionamientoDeVisitas":45
+}
